@@ -21,7 +21,7 @@ Hello, I am Mehedi, a front-end web developer from Bangladesh. I have deep under
 ![Profile views](https://gpvc.arturio.dev/mehediprime)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehediprime&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)(https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehediprime&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)
  
  <!-- ACTIVITY GRAPH TRACKER -->
 ![Mehedi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MehediPrime)
