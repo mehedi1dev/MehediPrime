@@ -1,16 +1,31 @@
-### Hi there 👋
+### About Me
+Hello, I am Mehedi, a front-end web developer from Bangladesh. I have deep understanding of the technologies and the processes required for realising a successful web project from A to Z. I'm ready and eager to work to create something simple and unique.
 
-<!--
-**MehediPrime/MehediPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehediprime&show_icons=true&count_private=true&theme=dark" alt="Mehedi" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stacks
+#### Languages: C++ | Java 
+
+#### Frontend: XML | HTML |  CSS
+
+#### Backend: Java | PHP 
+
+#### Others: Git | Figma | Firebase | MySQL
+
+## My Handles
+ [<img src="https://img.shields.io/badge/MehediPrime-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mehediprime/)
+ [<img src="https://img.shields.io/badge/MehediPrime-151515?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mehedi.primes/) 
+
+
+![Profile views](https://gpvc.arturio.dev/mehediprime)
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehediprime&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ 
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=mehediprime&theme=react-dark)]
+ 
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediprime&theme=dark&layout=compact&align=right&width=40%)]
