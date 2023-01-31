@@ -6,13 +6,12 @@ Hello, I am Mehedi, a front-end web developer from Bangladesh. I have deep under
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehediprime&show_icons=true&count_private=true&theme=dark" alt="Mehedi" />
 
 ### My Stacks
-#### Languages: C++ | Java 
 
-#### Frontend: XML | HTML |  CSS
+#### Frontend:  HTML |  CSS | JavaScript | React
 
-#### Backend: Java | PHP 
+#### Backend: NodeJs | ExpressJs 
 
-#### Others: Git | Figma | Firebase | MySQL
+#### Others: Git | PostGreSQL | MongoDB
 
 ## My Handles
  [<img src="https://img.shields.io/badge/MehediPrime-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mehediprime/)
