@@ -24,7 +24,7 @@ Hello, I am Mehedi, a front-end web developer from Bangladesh. I have deep under
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehediprime&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  
  <!-- ACTIVITY GRAPH TRACKER -->
-[![Mehedi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MehediPrime)]
+[Mehedi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MehediPrime)
  
  <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediprime&theme=dark&layout=compact&align=right&width=40%)]
+ [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediprime&theme=dark&layout=compact&align=right&width=40%)
