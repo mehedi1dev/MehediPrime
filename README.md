@@ -1,6 +1,8 @@
 ### About Me
 Hello, I am Mehedi, a front-end web developer from Bangladesh. I have deep understanding of the technologies and the processes required for realising a successful web project from A to Z. I'm ready and eager to work to create something simple and unique.
 
+## My Portfolio
+ [<img src="https://img.shields.io/badge/MehediPrime-151515?style=for-the-badge&logo=Portfolio&logoColor=white">](https://www.mehediprime.com)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehediprime&show_icons=true&count_private=true&theme=dark" alt="Mehedi" />
